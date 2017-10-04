@@ -1,0 +1,8 @@
+c:\users\arnau.buxadera\documents\visual studio 2015\Projects\AzureCloudService1\AzureCloudService1\bin\Debug\ServiceConfiguration.cscfg
+c:\users\arnau.buxadera\documents\visual studio 2015\Projects\AzureCloudService1\AzureCloudService1\bin\Debug\ServiceDefinition.csdef
+c:\users\arnau.buxadera\documents\visual studio 2015\Projects\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\arnau.buxadera\documents\visual studio 2015\Projects\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+c:\users\arnau.buxadera\documents\visual studio 2015\Projects\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\MonAgentListener.dll
+c:\users\arnau.buxadera\documents\visual studio 2015\Projects\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll
+c:\users\arnau.buxadera\documents\visual studio 2015\Projects\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll.config
+c:\users\arnau.buxadera\documents\visual studio 2015\Projects\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\WCFServiceWebRole1.pdb
